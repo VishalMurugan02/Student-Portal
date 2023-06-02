@@ -1,1 +1,1 @@
-# project1 This is a web application for calculating CGPA 
+ Web application for calculating CGPA  for students of ST JOSEPHS INSTITUTE OF TECHNOLOGY
